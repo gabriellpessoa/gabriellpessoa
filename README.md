@@ -1,81 +1,100 @@
-<!-- Perfil de Gabriel Pessoa | Developer Premium -->
+<!-- Gabriel Pessoa · Geospatial software & digital engineering -->
 <div align="center">
 
-<img src="./assets/tech-sphere.svg" width="100%" alt="Tech Sphere de Gabriel Pessoa — software, dados, automação, geotecnologia e IA" />
-
-<a href="https://github.com/gabriellpessoa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es.;Construindo+ferramentas+com+prop%C3%B3sito.;Software+%2B+Dados+%2B+Automa%C3%A7%C3%A3o." alt="Frases animadas de apresentação" />
-</a>
+<img src="./assets/tech-sphere.svg" alt="Gabriel Pessoa — animated orbital illustration inspired by geospatial systems, software and automation" width="100%" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@gabriellpessoa-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellpessoa)
-![Focus](https://img.shields.io/badge/FOCO-Produtos%20e%20automa%C3%A7%C3%A3o-0E7490?style=for-the-badge)
+**BUILDING SOFTWARE FOR REAL-WORLD COMPLEXITY**
+
+<sub>GEOSPATIAL TECHNOLOGY &nbsp; / &nbsp; AUTOMATION &nbsp; / &nbsp; DIGITAL PRODUCTS</sub>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-@GABRIELLPESSOA-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabriellpessoa)
+![Focus](https://img.shields.io/badge/FOCUS-GEOSPATIAL%20%26%20SOFTWARE-0E7490?style=flat-square)
 
 </div>
 
 ---
 
-<sub>Esfera orbital SVG adaptada do template [Tech Sphere](https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/03-3d-immersive/tech-sphere). Os termos representam áreas de interesse e desenvolvimento, não níveis de domínio.</sub>
+### `01 / ABOUT`
 
-### `01.` Sobre mim
+I build and explore digital tools that connect **software engineering, geospatial information and workflow automation**.
 
-Gosto de transformar desafios reais em soluções digitais, combinando **desenvolvimento de software**, **automação de processos**, **dados geoespaciais** e a exploração de **inteligência artificial aplicada**.
+My work is driven by a practical question: **how can technology make complex processes clearer, more reliable and easier to use?**
 
-Meu interesse está em criar ferramentas úteis, com atenção à experiência de uso, à confiabilidade e à evolução contínua dos projetos.
+I am particularly interested in the intersection of spatial data, technical validation, application design and emerging AI capabilities.
 
-> **Menos complexidade desnecessária. Mais tecnologia que resolve.**
-
-### `02.` Áreas de interesse
+### `02 / FOCUS AREAS`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧩 Engenharia de software</h4>
-      Aplicações, arquitetura, testes e melhoria contínua.
+      <b>◈ Geospatial systems</b><br/><br/>
+      Spatial data workflows, technical analysis and geospatial tooling.
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Automação</h4>
-      Fluxos de trabalho, validações e redução de tarefas repetitivas.
+      <b>⌘ Software development</b><br/><br/>
+      Purpose-built applications, maintainable workflows and usability.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4>🗺️ Geotecnologia</h4>
-      Ferramentas e análise de dados geoespaciais.
+      <b>⚙ Automation & validation</b><br/><br/>
+      Process automation, structured checks and repeatable operations.
     </td>
     <td valign="top">
-      <h4>🤖 Inteligência artificial</h4>
-      Investigação de aplicações práticas em produtos e processos.
+      <b>✧ Applied AI & products</b><br/><br/>
+      Exploring AI-assisted workflows and scalable digital products.
     </td>
   </tr>
 </table>
 
-### `03.` Projetos e iniciativas
+### `03 / SELECTED WORK`
 
-> Alguns projetos estão em repositórios privados. As descrições abaixo são apenas uma apresentação geral, **sem expor código, arquivos ou informações internas**.
+<table>
+  <tr>
+    <th align="left">INITIATIVE</th>
+    <th align="left">DIRECTION</th>
+  </tr>
+  <tr>
+    <td><b>ADAG GeoShift</b></td>
+    <td>Geospatial data analysis and workflow automation.</td>
+  </tr>
+  <tr>
+    <td><b>ADAG Modeler</b></td>
+    <td>Technical modeling, validation and quality-oriented tooling.</td>
+  </tr>
+  <tr>
+    <td><b>ADAG Topografia</b></td>
+    <td>Digital initiatives related to surveying and geospatial practice.</td>
+  </tr>
+  <tr>
+    <td><b>Altherys</b></td>
+    <td>Exploration and development of digital applications and products.</td>
+  </tr>
+</table>
 
-| Iniciativa | Visão geral |
-| :--- | :--- |
-| **ADAG GeoShift** | Ferramentas para análise e automação de fluxos com dados geoespaciais. |
-| **ADAG Modeler** | Desenvolvimento de recursos de modelagem e validação técnica. |
-| **ADAG Topografia** | Iniciativas digitais relacionadas à atuação em topografia. |
-| **Altherys** | Exploração e construção de aplicações e produtos digitais. |
+<sub>Selected work is maintained in private repositories. Descriptions provide a high-level overview only.</sub>
 
-### `04.` Em desenvolvimento
+### `04 / CURRENT DIRECTION`
 
-- 🔭 Evolução de ferramentas próprias de software e geotecnologia.
-- 🧠 Exploração de inteligência artificial aplicada a problemas concretos.
-- 🛠️ Aprimoramento de automações, qualidade de código e experiência do usuário.
+```text
+> DESIGN      Tools that make complex information accessible
+> ENGINEER    Reliable workflows and technical validation
+> EXPLORE     Applied AI and product-oriented development
+> IMPROVE     Quality, maintainability and user experience
+```
 
-### `05.` Atividade no GitHub
+### `05 / GITHUB`
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/gabriellpessoa?style=for-the-badge&label=SEGUIDORES&color=0891B2&labelColor=111827)](https://github.com/gabriellpessoa?tab=followers)
-[![GitHub profile](https://img.shields.io/badge/VER-ATIVIDADE%20NO%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellpessoa)
+[![Followers](https://img.shields.io/github/followers/gabriellpessoa?style=flat-square&label=FOLLOWERS&color=0E7490&labelColor=111827)](https://github.com/gabriellpessoa?tab=followers)
+[![Repositories](https://img.shields.io/badge/EXPLORE-GITHUB%20PROFILE-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabriellpessoa?tab=repositories)
 
-<sub>O gráfico de contribuições e os repositórios fixados aparecem na própria página do perfil, abaixo deste README.</sub>
+<sub>Contribution activity and pinned repositories appear below this profile README.</sub>
 
 </div>
 
@@ -83,12 +102,10 @@ Meu interesse está em criar ferramentas úteis, com atenção à experiência d
 
 <div align="center">
 
-**Building with purpose. · Criando soluções com propósito.**
+<sub>DESIGN WITH INTENTION. BUILD WITH PURPOSE.</sub>
 
-<sub>Gabriel Pessoa · Brasil</sub>
+**Gabriel Pessoa** &nbsp; · &nbsp; Brazil
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:123A59,100:07111F&height=95&section=footer" width="100%" alt="" />
+<sub>Orbital artwork adapted from the open-source [original template](https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/03-3d-immersive/tech-sphere).</sub>
 
 </div>
