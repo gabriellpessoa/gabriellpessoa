@@ -1,7 +1,7 @@
 <!-- Perfil de Gabriel Pessoa | Developer Premium -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123A59,100:22D3EE&height=210&section=header&text=Gabriel%20Pessoa&fontColor=FFFFFF&fontSize=48&fontAlignY=39&desc=Software%20%7C%20Automacao%20%7C%20Inteligencia%20Artificial%20%7C%20Geotecnologia&descAlignY=61&descSize=15&animation=fadeIn" width="100%" alt="Gabriel Pessoa — desenvolvimento, automação, IA e geotecnologia" />
+<img src="./assets/tech-sphere.svg" width="100%" alt="Tech Sphere de Gabriel Pessoa — software, dados, automação, geotecnologia e IA" />
 
 <a href="https://github.com/gabriellpessoa">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es.;Construindo+ferramentas+com+prop%C3%B3sito.;Software+%2B+Dados+%2B+Automa%C3%A7%C3%A3o." alt="Frases animadas de apresentação" />
@@ -15,6 +15,8 @@
 </div>
 
 ---
+
+<sub>Esfera orbital SVG adaptada do template [Tech Sphere](https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/03-3d-immersive/tech-sphere). Os termos representam áreas de interesse e desenvolvimento, não níveis de domínio.</sub>
 
 ### `01.` Sobre mim
 
